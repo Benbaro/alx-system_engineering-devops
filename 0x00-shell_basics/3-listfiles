@@ -1,2 +1,2 @@
- #!/bin/bash
-ls -l
+ls ls -l >> 3-listfiles
+echo ls ls ~l
