@@ -1,1 +1,1 @@
-Task 0. Where am I?
+This a readme.md that describes the scripts
